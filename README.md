@@ -6,21 +6,21 @@
  
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">
-   Welcome To MY GiTHub
+   Welcome To My Github
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">
 </h3>
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Cyber-Nirob;+It's+Not+Just+My+Name;It's+A+Brand)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=HridoY-Ahammed-Nirob;+It's+Not+Just+My+Name;It's+A+Brand)](https://git.io/typing-svg)
  
 </p>
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-<h3 align="center"> Cyber Security And Ethical Hacker </h3>
+<h3 align="center"> HridoY Ahammed Nirob </h3>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cyber-Nirobt&label=Profile%20views&color=eb4d3d&style=flat-square" alt="Cyber-Nirob" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cyber-Nirobt&label=Profile%20views&color=eb4d3d&style=flat-square" alt="HridoY-Ahammed-Nirob" /> </p>
 </i></b></h3>
  
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
