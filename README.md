@@ -53,15 +53,15 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 📱FacebooK :- [ Cyber Nirob  ](https://www.facebook.com/CYBER.NIROB)
+- 📱FacebooK :- [ HridoY Ahammed Nirob ](https://www.facebook.com/CYBER.HRIDOY.AHAMMED.NIROB/)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 📱FB Page :- [ Cyber Nirob ](https://www.facebook.com/Cyber.Nirob/)
+- 📱FB Page :- [ HridoY Ahammed Nirob ](https://www.facebook.com/profile.php?id=100086331795054)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 💻 GiTHub:- [ Cyber-Nirob ](https://github.com/Cyber-Nirob-Official)
+- 💻 Website :- [ HridoY Ahammed Nirob ](https://hridoyahammednirob.com/)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
